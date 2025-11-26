@@ -1,0 +1,4 @@
+[build]
+base = "vitejs-vite-bujjimhb"
+publish = "dist"
+command = "npm run build"
